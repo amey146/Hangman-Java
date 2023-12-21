@@ -1,6 +1,8 @@
 import java.io.*;
 import java.net.*;
 
+//hey this is hangman, and iam omkar.
+
 public class PlayerHangman{
     public static DatagramSocket ds;
     public static int attempt = 7; 
